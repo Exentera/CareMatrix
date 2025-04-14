@@ -57,13 +57,13 @@ Terminal or console environment
 🚀 How to Run
 
 Compile:
-'''
+```
 gcc -o carematrix carematrix.c
-'''
+```
 Run:
-'''
+```
 ./carematrix
-'''
+```
 
 
 🧾 File Structure
