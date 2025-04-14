@@ -66,11 +66,3 @@ Run:
 
 ## 🧾 File Structure
 carematrix.c – Main source code for the simulation and analysis.
-
-
-
-## 📄 License
-This project is open-source and free to use for educational or personal use.
-
-
-Made with 💻 by Me
